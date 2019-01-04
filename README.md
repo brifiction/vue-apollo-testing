@@ -1,5 +1,7 @@
 # vue-apollo
 
+[![dependencies Status](https://david-dm.org/brifiction/vue-apollo-testing/status.svg)](https://david-dm.org/brifiction/vue-apollo-testing) [![devDependencies Status](https://david-dm.org/brifiction/vue-apollo-testing/dev-status.svg)](https://david-dm.org/brifiction/vue-apollo-testing?type=dev)
+
 ## Project setup
 ```
 yarn install
